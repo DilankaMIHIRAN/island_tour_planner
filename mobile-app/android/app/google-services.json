@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "246161893617",
+    "project_id": "flutter-firebase-starter-7c77a",
+    "storage_bucket": "flutter-firebase-starter-7c77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246161893617:android:820d033130c777154ba150",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246161893617-31v64gig5cfmhgl82rfpcg0cph8khc7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfyAgNdowZ5uWRaMe5cbV4v4olbNVByg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246161893617-31v64gig5cfmhgl82rfpcg0cph8khc7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246161893617-m4jeflfp3qkl9jdtc0c0splc58krad64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseStarter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246161893617:android:e3357e4f400165f84ba150",
+        "android_client_info": {
+          "package_name": "com.example.island_tour_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246161893617-31v64gig5cfmhgl82rfpcg0cph8khc7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfyAgNdowZ5uWRaMe5cbV4v4olbNVByg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246161893617-31v64gig5cfmhgl82rfpcg0cph8khc7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246161893617-m4jeflfp3qkl9jdtc0c0splc58krad64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseStarter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
